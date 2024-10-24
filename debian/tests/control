@@ -1,3 +1,4 @@
 Depends: @, iputils-ping
 Test-Command: make check
 Features: test-name=check
+Restrictions: needs-sudo
